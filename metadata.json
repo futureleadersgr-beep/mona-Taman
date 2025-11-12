@@ -1,0 +1,5 @@
+{
+  "name": "SCOR-RISK: Supply Chain Simulation",
+  "description": "An interactive educational game simulating supply chain risk management scenarios using the SCOR model. Players make decisions, evaluate trade-offs, and receive AI-powered feedback to master course concepts.",
+  "requestFramePermissions": []
+}
